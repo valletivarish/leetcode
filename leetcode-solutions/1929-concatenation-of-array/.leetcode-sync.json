@@ -8,11 +8,11 @@
     "java": {
       "language": "Java",
       "file": "Solution.java",
-      "runtime": "1 ms",
-      "memory": "47.4 MB",
-      "submittedAt": "2026-08-17T16:57:54.000Z",
-      "updatedAt": "2026-08-17T16:57:58.753Z",
-      "submissionId": "2110422022"
+      "runtime": null,
+      "memory": null,
+      "submittedAt": "2026-08-17T16:59:36.000Z",
+      "updatedAt": "2026-08-17T16:59:36.766Z",
+      "submissionId": "2110424647"
     }
   }
 }
