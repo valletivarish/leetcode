@@ -1,0 +1,19 @@
+{
+  "problemNumber": 217,
+  "title": "Contains Duplicate",
+  "titleSlug": "contains-duplicate",
+  "url": "https://leetcode.com/problems/contains-duplicate/",
+  "difficulty": "Easy",
+  "solutions": {
+    "java": {
+      "language": "Java",
+      "file": "Solution.java",
+      "runtime": "10 ms",
+      "memory": "98 MB",
+      "submittedAt": "2026-06-11T10:51:44.000Z",
+      "updatedAt": "2026-08-18T08:59:50.718Z",
+      "submissionId": "2029643163"
+    }
+  },
+  "constraints": null
+}
