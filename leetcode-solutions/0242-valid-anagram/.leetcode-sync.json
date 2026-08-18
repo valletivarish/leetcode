@@ -1,0 +1,22 @@
+{
+  "problemNumber": 242,
+  "title": "Valid Anagram",
+  "titleSlug": "valid-anagram",
+  "url": "https://leetcode.com/problems/valid-anagram/",
+  "difficulty": "Easy",
+  "solutions": {
+    "java": {
+      "language": "Java",
+      "file": "Solution.java",
+      "runtime": "5 ms",
+      "memory": "44.5 MB",
+      "submittedAt": "2026-08-18T09:17:19.000Z",
+      "updatedAt": "2026-08-18T09:21:12.016Z",
+      "submissionId": "2111199128"
+    }
+  },
+  "constraints": [
+    "1 <= s.length, t.length <= 5 * 10^4",
+    "s and t consist of lowercase English letters."
+  ]
+}
