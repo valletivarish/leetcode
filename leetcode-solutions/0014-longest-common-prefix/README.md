@@ -13,8 +13,8 @@
 | --- | --- |
 | **Language** | Java |
 | **Runtime** | 1 ms |
-| **Memory** | 43.5 MB |
-| **Submitted** | 2026-08-19 19:17 UTC |
+| **Memory** | 43.3 MB |
+| **Submitted** | 2026-08-19 19:51 UTC |
 | **Solution** | [`Solution.java`](./Solution.java) |
 
 ---
