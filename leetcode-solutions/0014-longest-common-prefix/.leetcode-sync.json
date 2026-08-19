@@ -1,0 +1,23 @@
+{
+  "problemNumber": 14,
+  "title": "Longest Common Prefix",
+  "titleSlug": "longest-common-prefix",
+  "url": "https://leetcode.com/problems/longest-common-prefix/",
+  "difficulty": "Easy",
+  "solutions": {
+    "java": {
+      "language": "Java",
+      "file": "Solution.java",
+      "runtime": "1 ms",
+      "memory": "43.5 MB",
+      "submittedAt": "2026-08-19T19:17:26.000Z",
+      "updatedAt": "2026-08-19T19:17:29.571Z",
+      "submissionId": "2113170168"
+    }
+  },
+  "constraints": [
+    "1 <= strs.length <= 200",
+    "0 <= strs[i].length <= 200",
+    "strs[i] consists of only lowercase English letters if it is non-empty."
+  ]
+}
