@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-5 problems synced.
+6 problems synced.
 
 | # | Problem | Difficulty | Languages |
 | --- | --- | --- | --- |
@@ -9,3 +9,4 @@
 | 217 | [Contains Duplicate](./0217-contains-duplicate/) | Easy | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram/) | Easy | Java |
 | 1929 | [Concatenation of Array](./1929-concatenation-of-array/) | Easy | Java |
+| 9999 | [Sync Path Check](./9999-sync-path-check/) | — | Java |
