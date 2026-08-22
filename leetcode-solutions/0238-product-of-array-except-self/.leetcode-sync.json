@@ -1,0 +1,23 @@
+{
+  "problemNumber": 238,
+  "title": "Product of Array Except Self",
+  "titleSlug": "product-of-array-except-self",
+  "url": "https://leetcode.com/problems/product-of-array-except-self/",
+  "difficulty": "Medium",
+  "solutions": {
+    "java": {
+      "language": "Java",
+      "file": "Solution.java",
+      "runtime": "2 ms",
+      "memory": "72.4 MB",
+      "submittedAt": "2026-05-30T09:16:16.000Z",
+      "updatedAt": "2026-08-22T18:14:16.349Z",
+      "submissionId": "2017107445"
+    }
+  },
+  "constraints": [
+    "2 <= nums.length <= 10^5",
+    "-30 <= nums[i] <= 30",
+    "The input is generated such that answer[i] is guaranteed to fit in a 32-bit integer."
+  ]
+}
