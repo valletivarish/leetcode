@@ -1,0 +1,23 @@
+{
+  "problemNumber": 49,
+  "title": "Group Anagrams",
+  "titleSlug": "group-anagrams",
+  "url": "https://leetcode.com/problems/group-anagrams/",
+  "difficulty": "Medium",
+  "solutions": {
+    "java": {
+      "language": "Java",
+      "file": "Solution.java",
+      "runtime": "6 ms",
+      "memory": "50.1 MB",
+      "submittedAt": "2026-08-24T11:50:29.000Z",
+      "updatedAt": "2026-08-24T11:50:31.537Z",
+      "submissionId": "2118378227"
+    }
+  },
+  "constraints": [
+    "1 <= strs.length <= 10^4",
+    "0 <= strs[i].length <= 100",
+    "strs[i] consists of lowercase English letters."
+  ]
+}
