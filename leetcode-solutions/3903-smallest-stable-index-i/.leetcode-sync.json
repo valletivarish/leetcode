@@ -1,0 +1,23 @@
+{
+  "problemNumber": 3903,
+  "title": "Smallest Stable Index I",
+  "titleSlug": "smallest-stable-index-i",
+  "url": "https://leetcode.com/problems/smallest-stable-index-i/",
+  "difficulty": "Easy",
+  "solutions": {
+    "java": {
+      "language": "Java",
+      "file": "Solution.java",
+      "runtime": "2 ms",
+      "memory": "46.8 MB",
+      "submittedAt": "2026-09-08T08:15:51.000Z",
+      "updatedAt": "2026-09-08T08:15:56.421Z",
+      "submissionId": "2134850924"
+    }
+  },
+  "constraints": [
+    "1 <= nums.length <= 100",
+    "0 <= nums[i] <= 10^9",
+    "0 <= k <= 10^9"
+  ]
+}

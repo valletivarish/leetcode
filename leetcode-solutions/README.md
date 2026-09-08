@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-8 problems synced.
+9 problems synced.
 
 | # | Problem | Difficulty | Languages |
 | --- | --- | --- | --- |
@@ -12,3 +12,4 @@
 | 242 | [Valid Anagram](./0242-valid-anagram/) | Easy | Java |
 | 1929 | [Concatenation of Array](./1929-concatenation-of-array/) | Easy | Java |
 | 3870 | [Count Commas in Range](./3870-count-commas-in-range/) | Easy | Java |
+| 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | Java |
