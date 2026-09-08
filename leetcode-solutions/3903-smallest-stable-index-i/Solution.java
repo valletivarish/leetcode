@@ -1,39 +1,20 @@
-import java.util.*;
-
 class Solution {
     public int firstStableIndex(int[] nums, int k) {
-        for (int i = 0; i < nums.length; i++) {
-            int[] maxArray = Arrays.copyOfRange(nums, 0, i + 1);
-            int[] minArray = Arrays.copyOfRange(nums, i, nums.length);
+        int n = nums.length;
+        int[] minFrom = new int[n];
+        minFrom[n - 1] = nums[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            minFrom[i] = Math.min(minFrom[i + 1], nums[i]);
+        }
 
-            var max = findMax(maxArray);
-            var min = findMin(minArray);
-
+        int max = Integer.MIN_VALUE;
+        for (int i = 0; i < n; i++) {
+            max = Math.max(max, nums[i]);
+            int min = minFrom[i];
             if (max - min <= k) {
                 return i;
             }
         }
-
         return -1;
-    }
-
-    private int findMax(int[] nums) {
-        int max = Integer.MIN_VALUE;
-        for (int num : nums) {
-            if (num > max) {
-                max = num;
-            }
-        }
-        return max;
-    }
-
-    private int findMin(int[] nums) {
-        int min = Integer.MAX_VALUE;
-        for (int num : nums) {
-            if (num < min) {
-                min = num;
-            }
-        }
-        return min;
     }
 }
