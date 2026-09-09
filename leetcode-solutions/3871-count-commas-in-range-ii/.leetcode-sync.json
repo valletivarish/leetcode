@@ -1,0 +1,21 @@
+{
+  "problemNumber": 3871,
+  "title": "Count Commas in Range II",
+  "titleSlug": "count-commas-in-range-ii",
+  "url": "https://leetcode.com/problems/count-commas-in-range-ii/",
+  "difficulty": "Medium",
+  "solutions": {
+    "java": {
+      "language": "Java",
+      "file": "Solution.java",
+      "runtime": null,
+      "memory": null,
+      "submittedAt": "2026-09-09T08:01:00.000Z",
+      "updatedAt": "2026-09-09T08:01:05.014Z",
+      "submissionId": "2136068789"
+    }
+  },
+  "constraints": [
+    "1 <= n <= 10^15"
+  ]
+}
