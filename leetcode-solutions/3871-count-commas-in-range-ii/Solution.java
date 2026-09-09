@@ -1,8 +1,14 @@
 class Solution {
     public long countCommas(long n) {
-        if (n < 1000) {
-            return 0;
+        long start = 1000;
+        long count = 0;
+        long comma = 1;
+        while (start <= n) {
+            long end = Math.min(n, (start * 1000) - 1);
+            count += (end - start + 1) * comma;
+            start *= 1000;
+            comma++;
         }
-        return n - 999;
+        return count;
     }
 }
