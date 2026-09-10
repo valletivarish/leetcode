@@ -1,0 +1,21 @@
+{
+  "problemNumber": 509,
+  "title": "Fibonacci Number",
+  "titleSlug": "fibonacci-number",
+  "url": "https://leetcode.com/problems/fibonacci-number/",
+  "difficulty": "Easy",
+  "solutions": {
+    "java": {
+      "language": "Java",
+      "file": "Solution.java",
+      "runtime": "0 ms",
+      "memory": "42.1 MB",
+      "submittedAt": "2026-09-10T12:26:40.000Z",
+      "updatedAt": "2026-09-10T12:26:43.302Z",
+      "submissionId": "2137465577"
+    }
+  },
+  "constraints": [
+    "0 <= n <= 30"
+  ]
+}
