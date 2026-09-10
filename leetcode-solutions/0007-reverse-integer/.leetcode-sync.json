@@ -1,0 +1,21 @@
+{
+  "problemNumber": 7,
+  "title": "Reverse Integer",
+  "titleSlug": "reverse-integer",
+  "url": "https://leetcode.com/problems/reverse-integer/",
+  "difficulty": "Medium",
+  "solutions": {
+    "java": {
+      "language": "Java",
+      "file": "Solution.java",
+      "runtime": "1 ms",
+      "memory": "42.4 MB",
+      "submittedAt": "2026-05-24T11:04:04.000Z",
+      "updatedAt": "2026-09-10T09:55:20.368Z",
+      "submissionId": "2011654113"
+    }
+  },
+  "constraints": [
+    "-2^31 <= x <= 2^31 - 1"
+  ]
+}

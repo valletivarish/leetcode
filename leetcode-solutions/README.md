@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-10 problems synced.
+11 problems synced.
 
 | # | Problem | Difficulty | Languages |
 | --- | --- | --- | --- |
 | 1 | [Two Sum](./0001-two-sum/) | Easy | Java |
+| 7 | [Reverse Integer](./0007-reverse-integer/) | Medium | Java |
 | 14 | [Longest Common Prefix](./0014-longest-common-prefix/) | Easy | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams/) | Medium | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate/) | Easy | Java |
