@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-11 problems synced.
+12 problems synced.
 
 | # | Problem | Difficulty | Languages |
 | --- | --- | --- | --- |
@@ -8,6 +8,7 @@
 | 7 | [Reverse Integer](./0007-reverse-integer/) | Medium | Java |
 | 14 | [Longest Common Prefix](./0014-longest-common-prefix/) | Easy | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams/) | Medium | Java |
+| 125 | [Valid Palindrome](./0125-valid-palindrome/) | Easy | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate/) | Easy | Java |
 | 238 | [Product of Array Except Self](./0238-product-of-array-except-self/) | Medium | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram/) | Easy | Java |

@@ -1,0 +1,22 @@
+{
+  "problemNumber": 125,
+  "title": "Valid Palindrome",
+  "titleSlug": "valid-palindrome",
+  "url": "https://leetcode.com/problems/valid-palindrome/",
+  "difficulty": "Easy",
+  "solutions": {
+    "java": {
+      "language": "Java",
+      "file": "Solution.java",
+      "runtime": null,
+      "memory": null,
+      "submittedAt": "2026-09-10T12:21:03.000Z",
+      "updatedAt": "2026-09-10T12:21:05.598Z",
+      "submissionId": "2137461293"
+    }
+  },
+  "constraints": [
+    "1 <= s.length <= 2 * 10^5",
+    "s consists only of printable ASCII characters."
+  ]
+}
