@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-13 problems synced.
+14 problems synced.
 
 | # | Problem | Difficulty | Languages |
 | --- | --- | --- | --- |
@@ -14,6 +14,7 @@
 | 242 | [Valid Anagram](./0242-valid-anagram/) | Easy | Java |
 | 509 | [Fibonacci Number](./0509-fibonacci-number/) | Easy | Java |
 | 1929 | [Concatenation of Array](./1929-concatenation-of-array/) | Easy | Java |
+| 3483 | [Unique 3-Digit Even Numbers](./3483-unique-3-digit-even-numbers/) | Easy | Java |
 | 3870 | [Count Commas in Range](./3870-count-commas-in-range/) | Easy | Java |
 | 3871 | [Count Commas in Range II](./3871-count-commas-in-range-ii/) | Medium | Java |
 | 3903 | [Smallest Stable Index I](./3903-smallest-stable-index-i/) | Easy | Java |

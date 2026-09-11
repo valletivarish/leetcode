@@ -1,0 +1,22 @@
+{
+  "problemNumber": 3483,
+  "title": "Unique 3-Digit Even Numbers",
+  "titleSlug": "unique-3-digit-even-numbers",
+  "url": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+  "difficulty": "Easy",
+  "solutions": {
+    "java": {
+      "language": "Java",
+      "file": "Solution.java",
+      "runtime": "5 ms",
+      "memory": "46.5 MB",
+      "submittedAt": "2026-09-11T11:09:15.000Z",
+      "updatedAt": "2026-09-11T11:09:47.116Z",
+      "submissionId": "2138480096"
+    }
+  },
+  "constraints": [
+    "3 <= digits.length <= 10",
+    "0 <= digits[i] <= 9"
+  ]
+}
