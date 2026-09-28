@@ -8,12 +8,15 @@
     "java": {
       "language": "Java",
       "file": "Solution.java",
-      "runtime": "15 ms",
-      "memory": "106.8 MB",
-      "submittedAt": "2026-08-18T08:59:52.000Z",
-      "updatedAt": "2026-08-18T08:59:57.882Z",
-      "submissionId": "2111178693"
+      "runtime": "13 ms",
+      "memory": "109 MB",
+      "submittedAt": "2026-09-28T11:21:12.000Z",
+      "updatedAt": "2026-09-28T11:21:14.763Z",
+      "submissionId": "2155900559"
     }
   },
-  "constraints": null
+  "constraints": [
+    "1 <= nums.length <= 10^5",
+    "-10^9 <= nums[i] <= 10^9"
+  ]
 }
